@@ -66,35 +66,35 @@ INCITS,County or equivalent,State or district
 1129,Washington County,Alabama
 1131,Wilcox County,Alabama
 1133,Winston County,Alabama
-2013,Aleutians East Borough[4],Alaska
-2016,Aleutians West Census Area[5],Alaska
-2020,"Anchorage, Municipality of[6]",Alaska
-2050,Bethel Census Area[5],Alaska
-2060,Bristol Bay Borough[4],Alaska
-2068,Denali Borough[4],Alaska
-2070,Dillingham Census Area[5],Alaska
-2090,Fairbanks North Star Borough[4],Alaska
-2100,Haines Borough[4],Alaska
-2105,Hoonah–Angoon Census Area[5],Alaska
-2110,"Juneau, City and Borough of[7]",Alaska
-2122,Kenai Peninsula Borough[4],Alaska
-2130,Ketchikan Gateway Borough[4],Alaska
-2150,Kodiak Island Borough[4],Alaska
-2164,Lake and Peninsula Borough[4],Alaska
-2170,Matanuska-Susitna Borough[4],Alaska
-2180,Nome Census Area[5],Alaska
-2185,North Slope Borough[4],Alaska
-2188,Northwest Arctic Borough[4],Alaska
-2195,Petersburg Borough[4],Alaska
-2198,Prince of Wales – Hyder Census Area[5],Alaska
-2220,"Sitka, City and Borough of[8]",Alaska
-2230,"Skagway, Municipality of[4]",Alaska
-2240,Southeast Fairbanks Census Area[5],Alaska
-2261,Valdez–Cordova Census Area[5],Alaska
-2270,Kusilvak Census Area[5],Alaska
-2275,"Wrangell, City and Borough of[4]",Alaska
-2282,"Yakutat, City and Borough of[9]",Alaska
-2290,Yukon–Koyukuk Census Area[5],Alaska
+2013,Aleutians East Borough,Alaska
+2016,Aleutians West Census Area,Alaska
+2020,"Anchorage, Municipality of",Alaska
+2050,Bethel Census Area,Alaska
+2060,Bristol Bay Borough,Alaska
+2068,Denali Borough,Alaska
+2070,Dillingham Census Area,Alaska
+2090,Fairbanks North Star Borough,Alaska
+2100,Haines Borough,Alaska
+2105,Hoonah–Angoon Census Area,Alaska
+2110,"Juneau, City and Borough of",Alaska
+2122,Kenai Peninsula Borough,Alaska
+2130,Ketchikan Gateway Borough,Alaska
+2150,Kodiak Island Borough,Alaska
+2164,Lake and Peninsula Borough,Alaska
+2170,Matanuska-Susitna Borough,Alaska
+2180,Nome Census Area,Alaska
+2185,North Slope Borough,Alaska
+2188,Northwest Arctic Borough,Alaska
+2195,Petersburg Borough,Alaska
+2198,Prince of Wales – Hyder Census Area,Alaska
+2220,"Sitka, City and Borough of",Alaska
+2230,"Skagway, Municipality of",Alaska
+2240,Southeast Fairbanks Census Area,Alaska
+2261,Valdez–Cordova Census Area,Alaska
+2270,Kusilvak Census Area,Alaska
+2275,"Wrangell, City and Borough of",Alaska
+2282,"Yakutat, City and Borough of",Alaska
+2290,Yukon–Koyukuk Census Area,Alaska
 4001,Apache County,Arizona
 4003,Cochise County,Arizona
 4005,Coconino County,Arizona
@@ -222,7 +222,7 @@ INCITS,County or equivalent,State or district
 6069,San Benito County,California
 6071,San Bernardino County,California
 6073,San Diego County,California
-6075,"San Francisco, City and County of[10]",California
+6075,"San Francisco, City and County of",California
 6077,San Joaquin County,California
 6079,San Luis Obispo County,California
 6081,San Mateo County,California
@@ -250,7 +250,7 @@ INCITS,County or equivalent,State or district
 8009,Baca County,Colorado
 8011,Bent County,Colorado
 8013,Boulder County,Colorado
-8014,"Broomfield, City and County of[11]",Colorado
+8014,"Broomfield, City and County of",Colorado
 8015,Chaffee County,Colorado
 8017,Cheyenne County,Colorado
 8019,Clear Creek County,Colorado
@@ -259,7 +259,7 @@ INCITS,County or equivalent,State or district
 8025,Crowley County,Colorado
 8027,Custer County,Colorado
 8029,Delta County,Colorado
-8031,"Denver, City and County of[12]",Colorado
+8031,"Denver, City and County of",Colorado
 8033,Dolores County,Colorado
 8035,Douglas County,Colorado
 8037,Eagle County,Colorado
@@ -307,18 +307,18 @@ INCITS,County or equivalent,State or district
 8121,Washington County,Colorado
 8123,Weld County,Colorado
 8125,Yuma County,Colorado
-9001,Fairfield County[13],Connecticut
-9003,Hartford County[13],Connecticut
-9005,Litchfield County[13],Connecticut
-9007,Middlesex County[13],Connecticut
-9009,New Haven County[13],Connecticut
-9011,New London County[13],Connecticut
-9013,Tolland County[13],Connecticut
-9015,Windham County[13],Connecticut
+9001,Fairfield County,Connecticut
+9003,Hartford County,Connecticut
+9005,Litchfield County,Connecticut
+9007,Middlesex County,Connecticut
+9009,New Haven County,Connecticut
+9011,New London County,Connecticut
+9013,Tolland County,Connecticut
+9015,Windham County,Connecticut
 10001,Kent County,Delaware
 10003,New Castle County,Delaware
 10005,Sussex County,Delaware
-11001,District of Columbia[14],District of Columbia
+11001,District of Columbia,District of Columbia
 12001,Alachua County,Florida
 12003,Baker County,Florida
 12005,Bay County,Florida
@@ -546,7 +546,7 @@ INCITS,County or equivalent,State or district
 13319,Wilkinson County,Georgia
 13321,Worth County,Georgia
 15001,Hawaii County,Hawaiʻi
-15003,"Honolulu, City and County of[15]",Hawaiʻi
+15003,"Honolulu, City and County of",Hawaiʻi
 15005,Kalawao County,Hawaiʻi
 15007,Kauai County,Hawaiʻi
 15009,Maui County,Hawaiʻi
@@ -1147,7 +1147,7 @@ INCITS,County or equivalent,State or district
 22065,Madison Parish,Louisiana
 22067,Morehouse Parish,Louisiana
 22069,Natchitoches Parish,Louisiana
-22071,Orleans Parish[16],Louisiana
+22071,Orleans Parish,Louisiana
 22073,Ouachita Parish,Louisiana
 22075,Plaquemines Parish,Louisiana
 22077,Pointe Coupee Parish,Louisiana
@@ -1215,21 +1215,21 @@ INCITS,County or equivalent,State or district
 24043,Washington County,Maryland
 24045,Wicomico County,Maryland
 24047,Worcester County,Maryland
-24510,Baltimore City[17],Maryland
+24510,Baltimore City,Maryland
 25001,Barnstable County,Massachusetts
-25003,Berkshire County[13],Massachusetts
+25003,Berkshire County,Massachusetts
 25005,Bristol County,Massachusetts
 25007,Dukes County,Massachusetts
-25009,Essex County[13],Massachusetts
-25011,Franklin County[13],Massachusetts
-25013,Hampden County[13],Massachusetts
-25015,Hampshire County[13],Massachusetts
-25017,Middlesex County[13],Massachusetts
-25019,"Nantucket, Town and County of[18]",Massachusetts
+25009,Essex County,Massachusetts
+25011,Franklin County,Massachusetts
+25013,Hampden County,Massachusetts
+25015,Hampshire County,Massachusetts
+25017,Middlesex County,Massachusetts
+25019,"Nantucket, Town and County of",Massachusetts
 25021,Norfolk County,Massachusetts
 25023,Plymouth County,Massachusetts
-25025,Suffolk County[13],Massachusetts
-25027,Worcester County[13],Massachusetts
+25025,Suffolk County,Massachusetts
+25027,Worcester County,Massachusetts
 26001,Alcona County,Michigan
 26003,Alger County,Michigan
 26005,Allegan County,Michigan
@@ -1596,7 +1596,7 @@ INCITS,County or equivalent,State or district
 29225,Webster County,Missouri
 29227,Worth County,Missouri
 29229,Wright County,Missouri
-29510,"St. Louis, City of[19]",Missouri
+29510,"St. Louis, City of",Missouri
 30001,Beaverhead County,Montana
 30003,Big Horn County,Montana
 30005,Blaine County,Montana
@@ -1762,7 +1762,7 @@ INCITS,County or equivalent,State or district
 32029,Storey County,Nevada
 32031,Washoe County,Nevada
 32033,White Pine County,Nevada
-32510,"Carson City, Consolidated Municipality of[20]",Nevada
+32510,"Carson City, Consolidated Municipality of",Nevada
 33001,Belknap County,New Hampshire
 33003,Carroll County,New Hampshire
 33005,Cheshire County,New Hampshire
@@ -1809,7 +1809,7 @@ INCITS,County or equivalent,State or district
 35023,Hidalgo County,New Mexico
 35025,Lea County,New Mexico
 35027,Lincoln County,New Mexico
-35028,Los Alamos County[21],New Mexico
+35028,Los Alamos County,New Mexico
 35029,Luna County,New Mexico
 35031,McKinley County,New Mexico
 35033,Mora County,New Mexico
@@ -2293,7 +2293,7 @@ INCITS,County or equivalent,State or district
 42095,Northampton County,Pennsylvania
 42097,Northumberland County,Pennsylvania
 42099,Perry County,Pennsylvania
-42101,Philadelphia County[22],Pennsylvania
+42101,Philadelphia County,Pennsylvania
 42103,Pike County,Pennsylvania
 42105,Potter County,Pennsylvania
 42107,Schuylkill County,Pennsylvania
@@ -2310,11 +2310,11 @@ INCITS,County or equivalent,State or district
 42129,Westmoreland County,Pennsylvania
 42131,Wyoming County,Pennsylvania
 42133,York County,Pennsylvania
-44001,Bristol County[13],Rhode Island
-44003,Kent County[13],Rhode Island
-44005,Newport County[13],Rhode Island
-44007,Providence County[13],Rhode Island
-44009,Washington County[13],Rhode Island
+44001,Bristol County,Rhode Island
+44003,Kent County,Rhode Island
+44005,Newport County,Rhode Island
+44007,Providence County,Rhode Island
+44009,Washington County,Rhode Island
 45001,Abbeville County,South Carolina
 45003,Aiken County,South Carolina
 45005,Allendale County,South Carolina
@@ -2914,44 +2914,44 @@ INCITS,County or equivalent,State or district
 51195,Wise County,Virginia
 51197,Wythe County,Virginia
 51199,York County,Virginia
-51510,"Alexandria, City of[25]",Virginia
-51520,"Bristol, City of[25]",Virginia
-51530,"Buena Vista, City of[25]",Virginia
-51540,"Charlottesville, City of[25]",Virginia
-51550,"Chesapeake, City of[25]",Virginia
-51570,"Colonial Heights, City of[25]",Virginia
-51580,"Covington, City of[25]",Virginia
-51590,"Danville, City of[25]",Virginia
-51595,"Emporia, City of[25]",Virginia
-51600,"Fairfax, City of[25]",Virginia
-51610,"Falls Church, City of[25]",Virginia
-51620,"Franklin, City of[25]",Virginia
-51630,"Fredericksburg, City of[25]",Virginia
-51640,"Galax, City of[25]",Virginia
-51650,"Hampton, City of[25]",Virginia
-51660,"Harrisonburg, City of[25]",Virginia
-51670,"Hopewell, City of[25]",Virginia
-51678,"Lexington, City of[25]",Virginia
-51680,"Lynchburg, City of[25]",Virginia
-51683,"Manassas, City of[25]",Virginia
-51685,"Manassas Park, City of[25]",Virginia
-51690,"Martinsville, City of[25]",Virginia
-51700,"Newport News, City of[25]",Virginia
-51710,"Norfolk, City of[25]",Virginia
-51720,"Norton, City of[25]",Virginia
-51730,"Petersburg, City of[25]",Virginia
-51735,"Poquoson, City of[25]",Virginia
-51740,"Portsmouth, City of[25]",Virginia
-51750,"Radford, City of[25]",Virginia
-51760,"Richmond, City of[25]",Virginia
-51770,"Roanoke, City of[25]",Virginia
-51775,"Salem, City of[25]",Virginia
-51790,"Staunton, City of[25]",Virginia
-51800,"Suffolk, City of[25]",Virginia
-51810,"Virginia Beach, City of[25]",Virginia
-51820,"Waynesboro, City of[25]",Virginia
-51830,"Williamsburg, City of[25]",Virginia
-51840,"Winchester, City of[25]",Virginia
+51510,"Alexandria, City of",Virginia
+51520,"Bristol, City of",Virginia
+51530,"Buena Vista, City of",Virginia
+51540,"Charlottesville, City of",Virginia
+51550,"Chesapeake, City of",Virginia
+51570,"Colonial Heights, City of",Virginia
+51580,"Covington, City of",Virginia
+51590,"Danville, City of",Virginia
+51595,"Emporia, City of",Virginia
+51600,"Fairfax, City of",Virginia
+51610,"Falls Church, City of",Virginia
+51620,"Franklin, City of",Virginia
+51630,"Fredericksburg, City of",Virginia
+51640,"Galax, City of",Virginia
+51650,"Hampton, City of",Virginia
+51660,"Harrisonburg, City of",Virginia
+51670,"Hopewell, City of",Virginia
+51678,"Lexington, City of",Virginia
+51680,"Lynchburg, City of",Virginia
+51683,"Manassas, City of",Virginia
+51685,"Manassas Park, City of",Virginia
+51690,"Martinsville, City of",Virginia
+51700,"Newport News, City of",Virginia
+51710,"Norfolk, City of",Virginia
+51720,"Norton, City of",Virginia
+51730,"Petersburg, City of",Virginia
+51735,"Poquoson, City of",Virginia
+51740,"Portsmouth, City of",Virginia
+51750,"Radford, City of",Virginia
+51760,"Richmond, City of",Virginia
+51770,"Roanoke, City of",Virginia
+51775,"Salem, City of",Virginia
+51790,"Staunton, City of",Virginia
+51800,"Suffolk, City of",Virginia
+51810,"Virginia Beach, City of",Virginia
+51820,"Waynesboro, City of",Virginia
+51830,"Williamsburg, City of",Virginia
+51840,"Winchester, City of",Virginia
 53001,Adams County,Washington
 53003,Asotin County,Washington
 53005,Benton County,Washington
